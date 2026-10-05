@@ -1,4 +1,4 @@
-# Heritage AI — Apps
+# Heritage AI Apps
 
 Official distribution point for the Heritage AI applications.
 
@@ -14,11 +14,11 @@ Releases will appear here with the public launch. Until then, please use [herita
 
 | Platform | How to get it |
 | --- | --- |
+| iOS | App Store |
+| macOS | App Store |
 | Web app (PWA) | Open it from [heritage.rip](https://heritage.rip/en.html) and install it from your browser |
 | Android | Store listing, or the APK attached to each release |
 | Windows | Installer attached to each release |
-| iOS | Coming soon |
-| macOS | Coming soon |
 
 ## Verify your download
 
@@ -30,6 +30,8 @@ Before installing a file downloaded from this page, check that its SHA-256 match
 If the values do not match, do not install the file.
 
 ## Install
+
+**iOS and macOS.** Install Heritage AI from the App Store.
 
 **Android (APK).** Download the APK from the latest release, open it on your device and allow installation from your browser or file manager when prompted. Prefer the store listing when it is available in your country.
 
