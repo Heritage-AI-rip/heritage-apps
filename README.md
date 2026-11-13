@@ -39,7 +39,7 @@ If the values do not match, do not install the file.
 
 ## Support
 
-heritage.rip.ai@proton.me
+info@heritage.rip
 
 ---
 
