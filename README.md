@@ -4,42 +4,23 @@ Official distribution point for the Heritage AI applications.
 
 Heritage AI is an end-to-end encrypted digital safe for your digital assets, with Personal Recovery while you are alive and time-locked delivery to the people you choose afterwards. Learn more on [heritage.rip](https://heritage.rip/en.html).
 
-> This repository contains release builds and installation notes only. It contains no source code.
-
 ## Download
 
-Builds are published under **[Releases](https://github.com/Heritage-AI-rip/heritage-apps/releases)**. Each release lists its files and their SHA-256 checksums.
-
-Releases will appear here with the public launch. Until then, please use [heritage.rip](https://heritage.rip/en.html).
-
-| Platform | How to get it |
+| Platform | Download or open |
 | --- | --- |
-| iOS | App Store |
-| macOS | App Store |
-| Web app (PWA) | Open it from [heritage.rip](https://heritage.rip/en.html) and install it from your browser |
-| Android | Store listing, or the APK attached to each release |
-| Windows | Installer attached to each release |
-
-## Verify your download
-
-Before installing a file downloaded from this page, check that its SHA-256 matches the value published in the release notes.
-
-- **Windows (PowerShell):** `Get-FileHash .\<file> -Algorithm SHA256`
-- **macOS / Linux:** `shasum -a 256 <file>`
-
-If the values do not match, do not install the file.
+| iOS | [Get Heritage for iOS](https://app.heritage.rip/download/ios) |
+| macOS | [Get Heritage for macOS](https://app.heritage.rip/download/macos) |
+| Android | [Get Heritage for Android](https://app.heritage.rip/download/android) |
+| Web app (PWA) | [Open the web app](https://app.heritage.rip/) |
+| Windows | [Get Heritage for Windows](https://app.heritage.rip/download/desktop) |
 
 ## Install
 
-**iOS and macOS.** Install Heritage AI from the App Store.
-
-**Android (APK).** Download the APK from the latest release, open it on your device and allow installation from your browser or file manager when prompted. Prefer the store listing when it is available in your country.
-
-**Windows.** Download the installer from the latest release and run it. If Windows SmartScreen shows a warning, confirm that the file's checksum matches the release notes before continuing.
+On iOS, macOS, Android and Windows, follow the installation instructions at the link for your platform. To install the web app, open it in your browser and choose the option to install it or add it to your home screen.
 
 ## Support
 
-info@heritage.rip
+support@heritage.rip
 
 ---
 
